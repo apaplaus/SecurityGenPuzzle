@@ -5,7 +5,7 @@
 1. Create and activate vitual environment
 
 ```bash
-pip venv <virtual environment name>
+python -m venv <virtual environment name>
 . <virtual environment name>/bin/activate
 ```
 
